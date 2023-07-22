@@ -1,0 +1,11 @@
+export enum ConfigKeys {
+  DB_USER = 'DB_USER',
+  DB_NAME = 'DB_NAME',
+  DB_HOST = 'DB_HOST',
+  DB_PORT = 'PG_PORT',
+  REDIS_PORT = 'REDIS_PORT',
+  REDIS_HOST = 'REDIS_HOST',
+  DB_PSW = 'DB_PSW',
+  TG_API_TOKEN = 'TG_API_TOKEN',
+  TG_BOT_NAME = 'TG_BOT_NAME',
+}
